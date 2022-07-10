@@ -1,4 +1,4 @@
-# meteo_cab
+# Clouds Visualization
 ![alt text](data/cloud_visualization.png)
 
 ## Introduction
